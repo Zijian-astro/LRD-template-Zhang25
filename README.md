@@ -1,7 +1,7 @@
 # LRD-template-Zhang25
 <img width="764" height="305" alt="Screenshot 2025-12-05 at 09 37 47" src="https://github.com/user-attachments/assets/8a33c260-74ea-496d-961c-ee52f9512b96" />
 
-<img width="1398" height="438" alt="Screenshot 2025-12-05 at 15 47 59" src="https://github.com/user-attachments/assets/6bf1730b-73a6-46e6-bb38-069ba0a86ca1" />
+<img width="1399" height="444" alt="Screenshot 2025-12-05 at 15 51 42" src="https://github.com/user-attachments/assets/30b5c784-ea7e-4344-96e1-0aca9af3c59f" />
 
 
 Empirical template library for Little Red Dots (LRDs) constructed from JWST/NIRSpec prism spectra of 44 spectroscopically confirmed LRDs at z ≈ 2.3–7.
