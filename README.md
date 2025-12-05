@@ -5,8 +5,11 @@ Empirical template library for Little Red Dots (LRDs) constructed from JWST/NIRS
 These templates are designed for use with photometric-redshift fitting codes such as EAZY, and provide coverage of the observed diversity in LRD UV–optical continua.
 
 This repository contains:
-	•	LRD_template_12grid/ — LRD templates binned in the (β_UV, β_opt) plane with 12 grids
-	•	LRD_template_4grid/ — LRD templates binned in the (β_UV, β_opt) plane with 4 grids
+
+  •	LRD_template_12grid/ — LRD templates binned in the (β_UV, β_opt) plane with 12 grids
+  
+  •	LRD_template_4grid/ — LRD templates binned in the (β_UV, β_opt) plane with 4 grids
+
   •	Hainline24+LRD/ — LRD templates with 4 grids plus the template from Hainline et al. (2024)
 
 ⸻
@@ -76,21 +79,6 @@ or missing data
 
 This ensures smooth Lyman-break behavior without altering continuum slopes.
 
-⸻
-
-📁 Repository structure
-
-LRD-template-Zhang25/
-│
-├── LRD_template_12grid/
-│   └── 12+1 templates binned in (βUV, βopt) space
-│
-├── LRD_template_4grid/
-│   └── 4+1 templates binned in (βUV, βopt) space
-│
-└── Hainline24+LRD/
-    └── LRD_template_4grid + Hainline24 template
-
 
 ⸻
 
@@ -120,4 +108,4 @@ Zhang et al. 2025.
 📮 Contact
 
 For questions or issues:
-Zijian Zhang — zijianz@mit.edu (example; modify accordingly)
+Zijian Zhang — zjz.kiaa@stu.pku.edu.cn
