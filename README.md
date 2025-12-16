@@ -6,6 +6,7 @@
 
 Empirical template library for Little Red Dots (LRDs) constructed from JWST/NIRSpec prism spectra of 44 spectroscopically confirmed LRDs at z ≈ 2.3–7.
 See details in Zhang+2025: https://arxiv.org/abs/2512.05180v1
+
 These templates are designed for use with photometric-redshift fitting codes such as EAZY, and provide coverage of the observed diversity in LRD UV–optical continua.
 
 This repository contains:
