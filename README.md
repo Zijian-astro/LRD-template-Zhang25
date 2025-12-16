@@ -90,12 +90,12 @@ This ensures smooth Lyman-break behavior without altering continuum slopes.
 
 Add the template files to your EAZY templates/ directory and include them in your templates.param:
 
-TEMPLATES_FILE LRD_template_12grid/*.spec
+TEMPLATES_FILE LRD_template_12grid
 
 Or mix with default EAZY templates:
 
 TEMPLATES_FILE  eazy_v1.3.spectra.param
-TEMPLATES_FILE  LRD_template_12grid/*.spec
+TEMPLATES_FILE  LRD_template_12grid
 
 
 ⸻
